@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{52435C9B-773E-4F61-BB81-ECE495101700}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5B43AE2D-AF4C-4236-8FD3-FAB1BA760B57}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "PracticeTestAspCore", "src\PracticeTestAspCore\PracticeTestAspCore.xproj", "{6BB121A4-BDBE-4C3F-A4DC-AE63F6EB81B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB121A4-BDBE-4C3F-A4DC-AE63F6EB81B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB121A4-BDBE-4C3F-A4DC-AE63F6EB81B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB121A4-BDBE-4C3F-A4DC-AE63F6EB81B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB121A4-BDBE-4C3F-A4DC-AE63F6EB81B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BB121A4-BDBE-4C3F-A4DC-AE63F6EB81B5} = {52435C9B-773E-4F61-BB81-ECE495101700}
+	EndGlobalSection
+EndGlobal
